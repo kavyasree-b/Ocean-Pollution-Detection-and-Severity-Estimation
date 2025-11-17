@@ -7,3 +7,8 @@ Features
  CNN-Based Model: Trained on a structured dataset of ocean images with waste materials.
  Preprocessing Pipeline: Resizing, normalization, histogram equalization, and augmentation.
  Interactive Visualization Dashboard: Displays predictions, confidence scores, and example outputs.
+
+Tech Stack
+Python
+TensorFlow / Keras
+NumPy, OpenCV, Matplotlib
